@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-.env
+venv/
 node_mnodules
+data/fer2013.csv
+data/group_images
+data/cropped_faces
+.DS_Store
